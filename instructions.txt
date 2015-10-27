@@ -1,0 +1,61 @@
+Github IMP instructions
+
+
+download github from    https://desktop.github.com
+
+
+install it and thn add your email and name configure it and your done...
+
+now go to tht plus button at left top and click it..
+ 
+chose clone and clone the repository name Project-SEN-1 
+
+you will get tht in ur pc
+
+
+u can see tht from settng on right top and choose open explore...
+
+
+thn u can make changes thr.. after u make changes...
+
+go to git shell
+
+first add all files tht u changed... by command
+
+git add *
+
+OR for particular file
+
+git add filename
+
+
+after adding the file u can see its status by
+
+git status
+
+
+then push the changes to ur original foolder by
+
+git push
+
+
+after pushing you  need to commit the changes you made
+
+
+git commit -m "chnages done"
+
+
+-m is for msg...if u dont use tht u wll get a text file to write in tht so bettr use ths...
+
+
+IMP things to keep in mind
+
+
+
+1 whenever you start working make a clone of tht repository so tht we can maintain versions...
+
+2 to get tht chnages tht other made you have to pull the changes at start...so alwys pull the folder so tht u can get latest changes...
+
+git pull
+
+3 aftr making all changes add tht file push it and then commit...
