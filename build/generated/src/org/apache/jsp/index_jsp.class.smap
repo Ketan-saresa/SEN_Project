@@ -5,6 +5,16 @@ JSP
 *F
 + 0 index.jsp
 index.jsp
++ 1 header.jsp
+header.jsp
++ 2 footer.jsp
+footer.jsp
 *L
-1,888:44
+1:50,2
+1#1,337:52
+2#0,38:388
+40:426,3
+41,356:429
+1#2,172:785
+396#0,7:957
 *E

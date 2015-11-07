@@ -12,7 +12,7 @@
               <img src="dist/img/user2-160x160.jpg" class="img-circle" alt="User Image" />
             </div>
             <div class="pull-left info">
-              <p>Alexander Pierce</p>
+              <p>Professor</p>
 
               
             </div>
@@ -50,25 +50,15 @@
                 <i class="fa fa-angle-left pull-right"></i>
               </a>
               <ul class="treeview-menu">
-                <li><a href="pages/charts/chartjs.html"><i class="fa fa-book"></i> Course 1</a></li>
-                <li><a href="pages/charts/morris.html"><i class="fa fa-book"></i> Course 2</a></li>
-                <li><a href="pages/charts/flot.html"><i class="fa fa-book"></i> Course 3</a></li>
-                <li><a href="pages/charts/inline.html"><i class="fa fa-book"></i> Course 4</a></li>
+                <li><a href="Professor/task.jsp"><i class="fa fa-book"></i> Course 1</a></li>
+                <li><a href="Professor/task.jsp"><i class="fa fa-book"></i> Course 2</a></li>
               </ul>
             </li>
-            
             <li class="treeview">
-              <a href="#">
-                <i class="fa fa-group"></i>
-                <span>Teams</span>
-                <i class="fa fa-angle-left pull-right"></i>
+                <a href="<%= link.link.prof %>">
+                <i class="fa fa-envelope"></i>
+                <span>Quick Mail</span>
               </a>
-                <ul class="treeview-menu">
-                <li><a href="pages/charts/chartjs.html"><i class="fa fa-book"></i> Course 1</a></li>
-                <li><a href="pages/charts/morris.html"><i class="fa fa-book"></i> Course 2</a></li>
-                <li><a href="pages/charts/flot.html"><i class="fa fa-book"></i> Course 3</a></li>
-                <li><a href="pages/charts/inline.html"><i class="fa fa-book"></i> Course 4</a></li>
-              </ul>
             </li>
             
             
@@ -99,7 +89,7 @@
               <div class="small-box bg-aqua">
                 <div class="inner">
                   <h3>5</h3>
-                  <p>Tasks Pending</p>
+                  <p>Evaluation Pending</p>
                 </div>
                 <div class="icon">
                   <i class="ion ion-bag"></i>
@@ -111,8 +101,8 @@
               <!-- small box -->
               <div class="small-box bg-green">
                 <div class="inner">
-                  <h3>53<sup style="font-size: 20px">%</sup></h3>
-                  <p>Completion Rate</p>
+                  <h3>5<sup style="font-size: 20px"></sup></h3>
+                  <p>Current semester courses</p>
                 </div>
                 <div class="icon">
                   <i class="ion ion-stats-bars"></i>
@@ -125,7 +115,7 @@
               <div class="small-box bg-yellow">
                 <div class="inner">
                   <h3>15</h3>
-                  <p>Team Tasks</p>
+                  <p>Teams</p>
                 </div>
                 <div class="icon">
                   <i class="ion ion-person-add"></i>

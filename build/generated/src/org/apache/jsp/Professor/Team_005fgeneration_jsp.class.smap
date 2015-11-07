@@ -1,0 +1,20 @@
+SMAP
+Team_005fgeneration_jsp.java
+JSP
+*S JSP
+*F
++ 0 Team_generation.jsp
+Professor/Team_generation.jsp
++ 1 header.jsp
+Professor/header.jsp
++ 2 footer.jsp
+Professor/footer.jsp
+*L
+1:50
+1#1,346:51
+2#0,77:396
+79:473,3
+80,216:476
+1#2,248:691
+295#0,51:939
+*E

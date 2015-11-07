@@ -1,0 +1,23 @@
+SMAP
+Team_005fdetail_jsp.java
+JSP
+*S JSP
+*F
++ 0 header.jsp
+Professor/header.jsp
++ 1 Team_detail.jsp
+Professor/Team_detail.jsp
++ 2 footer.jsp
+Professor/footer.jsp
+*L
+1,342:50
+1#1,30:391
+31:421,3
+32,5:424
+37:429,3
+38,43:432
+81:475,3
+82,266:478
+1#2,172:743
+347#1,46:915
+*E

@@ -1,0 +1,17 @@
+SMAP
+Team_jsp.java
+JSP
+*S JSP
+*F
++ 0 header.jsp
+Student/header.jsp
++ 1 Team.jsp
+Student/Team.jsp
++ 2 footer.jsp
+Student/footer.jsp
+*L
+1,347:50
+1#1,371:396
+1#2,248:766
+371#1,128:1014
+*E

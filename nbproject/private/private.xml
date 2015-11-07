@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Dhaval%20Shah/Documents/GitHub/Team-management-system/web/plugins/ckeditor/skins/moono/editor_ie7.css</file>
-            <file>file:/C:/Users/Dhaval%20Shah/Documents/GitHub/Team-management-system/web/plugins/Login/login.css</file>
-            <file>file:/C:/Users/Dhaval%20Shah/Documents/GitHub/Team-management-system/web/plugins/ckeditor/skins/moono/editor_iequirks.css</file>
-            <file>file:/C:/Users/Dhaval%20Shah/Documents/GitHub/Team-management-system/web/login.jsp</file>
-            <file>file:/C:/Users/Dhaval%20Shah/Documents/GitHub/Team-management-system/web/index.jsp</file>
+            <file>file:/C:/Users/Dhaval%20Shah/Documents/GitHub/SEN_Project/web/Professor/profile.jsp</file>
+            <file>file:/C:/Users/Dhaval%20Shah/Documents/GitHub/SEN_Project/web/Professor/CourseDetail.jsp</file>
+            <file>file:/C:/Users/Dhaval%20Shah/Documents/GitHub/SEN_Project/web/Student/My_Courses.jsp</file>
+            <file>file:/C:/Users/Dhaval%20Shah/Documents/GitHub/SEN_Project/web/Student/Task_details.jsp</file>
+            <file>file:/C:/Users/Dhaval%20Shah/Documents/GitHub/SEN_Project/web/Student/profile.jsp</file>
+            <file>file:/C:/Users/Dhaval%20Shah/Documents/GitHub/SEN_Project/web/Student/index.jsp</file>
+            <file>file:/C:/Users/Dhaval%20Shah/Documents/GitHub/SEN_Project/web/Student/header.jsp</file>
+            <file>file:/C:/Users/Dhaval%20Shah/Documents/GitHub/SEN_Project/web/Student/footer.jsp</file>
+            <file>file:/C:/Users/Dhaval%20Shah/Documents/GitHub/SEN_Project/web/Professor/Courses.jsp</file>
         </group>
     </open-files>
 </project-private>

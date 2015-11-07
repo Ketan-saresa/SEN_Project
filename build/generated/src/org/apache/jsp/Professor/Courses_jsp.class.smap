@@ -1,0 +1,22 @@
+SMAP
+Courses_jsp.java
+JSP
+*S JSP
+*F
++ 0 Courses.jsp
+Professor/Courses.jsp
++ 1 header.jsp
+Professor/header.jsp
++ 2 footer.jsp
+Professor/footer.jsp
+*L
+1:50,2
+1#1,342:52
+2#0,145:393
+147:538,2
+148,14:540
+162:554,2
+163,70:556
+1#2,172:625
+232#0,45:797
+*E
